@@ -152,8 +152,7 @@ $$t = \text{clamp}\!\left(\frac{N - 1000}{4640 - 1000},\; 0,\; 1\right)$$
 | $\eta_0$ | 0.02 | 0.01 | 0.005 |
 | $K$ (seeds) | 5 | 3 | 1 |
 
-9MME at $N = 4640$ targets $R_g^{\text{target}} = 3.5 \times 4640^{0.45} \approx 156$ Å, requiring $w_{\text{DL}} \approx 25.0$ to achieve compaction. (Note: an internal code comment erroneously states ~104 Å — the formula value is authoritative.)
-
+9MME at $N = 4640$ targets $R_g^{\text{target}} = 3.5 \times 4640^{0.45} \approx 156$ Å, requiring $w_{\text{DL}} \approx 25.0$ to achieve compaction.
 ---
 
 ## Kabsch Alignment (Chain Stitching)
