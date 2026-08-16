@@ -493,6 +493,6 @@ If you build on HWS or SHR, please cite:
   title  = {SobolevRNA: Megascale RNA 3D Structure Prediction with Hierarchical
             Windowed Sensing and Stochastic Hamiltonian Relaxation},
   year   = {2026},
-  url    = {https://github.com/aurascoper/SobolevRNA}
+  url    = {https://github.com/aurascoper/SobolevMacromolecule}
 }
 ```
